@@ -162,3 +162,4 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 Admin@DESKTOP-35ABRQQ MINGW64 ~/Desktop/GitDemo (master)
 $
+comflicting cjanges in subBranch
