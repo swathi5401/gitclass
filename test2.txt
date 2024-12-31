@@ -1,2 +1,6 @@
 hello
+
 changes in master
+
+comflicting cjanges in bubBranch
+
