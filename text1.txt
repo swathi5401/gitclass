@@ -1,2 +1,3 @@
 
 comflicting cjanges in subBranch
+line was updated in subBranch branch
